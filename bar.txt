@@ -1,0 +1,13 @@
+
+    Directory: D:\Code\Misc\delme\BoringCSubLfs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           1/23/2021  6:17 PM            482 .gitignore
+-a---           1/23/2021  6:19 PM              0 bar.txt
+-a---           1/23/2021  6:18 PM        1048576 cat.bin
+-a---           1/23/2021  6:18 PM        1048576 dog.bin
+-a---           1/23/2021  6:19 PM            526 foo.txt
+-a---           1/23/2021  6:17 PM           1088 LICENSE
+-a---           1/23/2021  6:18 PM             29 README.md
+
